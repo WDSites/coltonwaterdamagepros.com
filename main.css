@@ -183,7 +183,7 @@ table.dt tr td:first-child{font-weight:700;color:var(--rose-d)}
 .locmap .mapframe{height:320px}
 .locmap h2{font-family:'Cormorant Garamond',serif;font-size:30px;margin-bottom:10px}
 footer.site{background:var(--rose-d);color:var(--pink);padding:54px 0 30px;font-size:14.5px}
-footer.site .wrap{display:grid;grid-template-columns:1.6fr 1fr 1fr 1.2fr;gap:32px}
+footer.site .wrap{display:grid;grid-template-columns:1.5fr 1fr 1.1fr 1fr 1fr;gap:28px}
 footer.site h2{font-family:'Sora',sans-serif;font-size:15px;color:var(--gold);margin-bottom:12px;letter-spacing:.02em}
 footer.site a{color:var(--pink);text-decoration:none;display:block;margin-bottom:8px}
 footer.site a:hover{color:#fff;text-decoration:underline}
